@@ -14,5 +14,5 @@ Institute is offering courses on the following branches.
 4. Mechanical Engineering </p>
 </body>
 </html>
-<imgsrc="gpt.jpeg">
 
+![image](https://github.com/user-attachments/assets/fca6dab1-20df-4686-9373-f854fbf120e7)
