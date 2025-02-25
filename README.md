@@ -20,6 +20,9 @@ Institute is offering courses on the following branches.
 <html>
  <boby>
  <h1>1.   About Civil engineering Department</h1>
+
+  ![image](https://github.com/user-attachments/assets/a6b532df-9475-4d94-be51-c0fe94c6c99b)
+
 <p>The Department of Civil Engineering was one among the four branches started when the Govt Polytechnic Hubballi established in 2009.
 From past six years, the department has been lot of progress in academics by producing good Diploma Students.
 Good number of students out of passed out have been joining to the premier institutions for higher education(Engg) and also good number of students got placed in reputed companies.
@@ -27,11 +30,17 @@ All this was achivable due to dedicated teaching and non teaching faculty and su
 
 
  <h1> 2.  About Computer Science Engineering Department</h1>
+
+ ![image](https://github.com/user-attachments/assets/67d9551c-f135-416f-8a28-d789e0de72b1)
+
 <p>The Computer Science Department mission is to present our students with up-to-date curricula and pedagogy in the computer science discipline, ensure that they have a solid foundation in the core concepts, equip them with problem solving and decision-making skills, and prepare them for lifelong learning in the discipline
 The department provides for and encourages collegial, intellectual, and academic growth of its faculty.
 The department supports and encourages local and regional technology initiatives contributing to educational and economic advances. </p>
 
 <h1> 3.  About Electronics and Communication Engineering Department</h1>
+
+![image](https://github.com/user-attachments/assets/309bf531-889b-4ac0-a8f2-61e6536fff6a)
+
 <p>The Department of Electronics and Communication Engineering established in the year of 2009, is one of the key branch in Govt Polytechnic Hubballi.
 The Department of Electronics and Communication Engineering has a Vision of providing quality education with practical exposure and having mission to providing good Technochrates to the society.
 The Department is facilited by well experienced Teaching and Non Teaching staff members.
@@ -39,6 +48,9 @@ Since 2009 the department has been progressive growth in academic results as wel
 The aluminies of our depatrment have been placed in reputed companies and many menmers have joined for Higher education (Engg) in premier colleges.</p>
 
 <h1> 4.   About Mechanical Engineering Department</h1>
+
+![image](https://github.com/user-attachments/assets/a994d6a0-8bdc-46aa-91f9-4c4b36334266)
+
 <p>The Department of Mechanical Engineering established in the year of 2009, is one of the key branch in Govt Polytechnic Hubballi. With the Vision of providing quality education with practical exposure and having mission to providing a good Technochrates to the society.
 The Department is facilited by well experienced Teaching and Non Teaching staff members.
 Since 2009 the department has been progressive growth in academic results as well as non curricular activities such as sports and cultural activities.
