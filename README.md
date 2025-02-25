@@ -21,7 +21,9 @@ Institute is offering courses on the following branches.
 <html>
  <boby>
  <h1>1.   About Civil engineering Department</h1>
- ![civil](https://github.com/user-attachments/assets/e1cdaecb-7760-45e1-ba2f-9c437be7d1ba)
+  
+ ![civil](https://github.com/user-attachments/assets/39f650b7-8155-434e-bbce-bcd34e22b461)
+
 
 
  <p>The Department of Civil Engineering was one among the four branches started when the Govt Polytechnic Hubballi established in 2009.
